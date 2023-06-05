@@ -1,5 +1,5 @@
-user1 = User.create(user_name: "John")
-user2 = User.create(user_name: "Mary")
+user1 = User.create(user_name: "Philip")
+user2 = User.create(user_name: "Kerich")
 
 product1 = Product.create(product_name: "Hisense", product_category: "Home applicance", price: 20000 )
 product2 = Product.create(product_name: "Ps5", product_category: "Gaming", price: 150000)
